@@ -31,4 +31,4 @@ class DataType1(object):
         :param new_attribute1: description of parameter goes here.
         :return: description of what the method returns goes here.
         """
-        self.__attribute1 = attribute1
+        self.__attribute1 = new_attribute1

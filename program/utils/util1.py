@@ -28,4 +28,4 @@ class Util1(object):
         """
         Method description goes here.
         """
-        self.__attribute1 = attribute1
+        self.__attribute1 = new_attribute1
