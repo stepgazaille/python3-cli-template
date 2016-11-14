@@ -117,7 +117,7 @@ We are using `Sphinx <http://www.sphinx-doc.org>`_ to generate our API documenta
 
 Versioning
 ==========
-We use `SemVer <http://semver.org>`_ for versioning.
+We use `SemVer <http://semver.org>`_ for versioning. For the versions available, see the `tags on this repository <https://github.com/stepgazaille/python3-template/tags>`_
 
 Author
 ======
