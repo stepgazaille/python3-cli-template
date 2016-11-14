@@ -19,8 +19,8 @@ Use the following commands to install the program:
 
 .. code:: shell
 
-    git clone https://github.com/stepgazaille/program.git
-    cd project
+    git clone https://github.com/stepgazaille/python3-template.git
+    cd python3-template
     sudo pip3 install .
 
 
