@@ -1,5 +1,10 @@
 Python3 project
 ***************
+
+.. image:: https://travis-ci.org/stepgazaille/python3-template.svg?branch=master
+    :target: https://travis-ci.org/stepgazaille/python3-template
+
+
 My Python3 project template.
 
 
