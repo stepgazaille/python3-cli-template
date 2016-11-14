@@ -1,0 +1,4 @@
+Sphinx
+pep8
+nose2
+cov-core

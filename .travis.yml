@@ -1,0 +1,19 @@
+sudo: required
+language: python
+dist: trusty
+before_install:
+  - pip install $(cat requirements.txt | grep -v Sphinx)
+python:
+  - "3.3"
+  - "3.4"
+  - "3.5"
+  - "3.5-dev"
+  - "3.6-dev"
+  - "nightly"
+install: pip install .
+script:
+  - pep8 .
+  - nose2
+branches:
+  except:
+    - dev
