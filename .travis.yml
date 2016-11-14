@@ -13,7 +13,6 @@ python:
 install: pip install .
 script:
   - pep8 .
-  - pylint ./program
   - nose2
 branches:
   except:
