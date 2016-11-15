@@ -66,11 +66,24 @@ Use case no 1:
 Contributing to the project
 ===========================
 
+Installation
+------------
+
 Use the following command to install testing and documentation dependencies:
 
 .. code:: shell
 
     sudo pip3 install -r requirements.txt
+
+
+Use the following commands to install the program in editable mode:
+
+.. code:: shell
+
+    git clone https://github.com/stepgazaille/python3-template.git
+    cd python3-template
+    sudo pip3 install -e .
+
 
 Testing
 -------
