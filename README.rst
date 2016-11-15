@@ -105,14 +105,22 @@ We are using `nose2 <https://github.com/nose-devs/nose2>`_ for unit testing. Use
     nose2
 
 
+Documentation
+-------------
+
 Generating the project's documentation
---------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 We are using `Sphinx <http://www.sphinx-doc.org>`_ to generate our API documentation. Use the following commands to generate a local version of the project's API documentation:
 
 .. code:: shell
 
     cd doc
     make html
+
+
+Hosting
+~~~~~~~
 
 Project website is hosted on `GitHub Pages <https://pages.github.com/>`_
 
