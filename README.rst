@@ -121,8 +121,7 @@ We are using `Sphinx <http://www.sphinx-doc.org>`_ to generate our API documenta
 
 Hosting
 ~~~~~~~
-
-Project website is hosted on `GitHub Pages <https://pages.github.com/>`_
+The project `online documentation <https://stepgazaille.github.io/python3-template//>`_ is hosted on `GitHub Pages <https://pages.github.com/>`_
 
 
 Versioning
