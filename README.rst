@@ -140,7 +140,7 @@ The project `online documentation <https://stepgazaille.github.io/python3-templa
 
 Versioning
 ==========
-We use `SemVer <http://semver.org>`_ for versioning. For the versions available, see the `tags on this repository <https://github.com/stepgazaille/python3-template/tags>`_
+We are using  `SemVer <http://semver.org>`_ for versioning. For the versions available, see the `tags on this repository <https://github.com/stepgazaille/python3-template/tags>`_
 
 Author
 ======
