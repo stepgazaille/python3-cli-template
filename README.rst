@@ -114,6 +114,8 @@ We are using `Sphinx <http://www.sphinx-doc.org>`_ to generate our API documenta
     cd doc
     make html
 
+Project website is hosted on `GitHub Pages <https://pages.github.com/>`_
+
 
 Versioning
 ==========
