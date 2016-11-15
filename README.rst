@@ -118,7 +118,7 @@ We are using `Sphinx <http://www.sphinx-doc.org>`_ to generate our API documenta
     cd docs
     make clean; make html
 
-The generated API documentation will appear in `docs/_build/html/` directory.
+The generated API documentation will appear in docs/_build/html/ directory.
 
 Hosting
 ~~~~~~~

@@ -17,4 +17,4 @@ script:
   - nose2
 branches:
   except:
-    - dev
+    - master
