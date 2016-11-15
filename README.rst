@@ -116,7 +116,7 @@ We are using `Sphinx <http://www.sphinx-doc.org>`_ to generate our API documenta
 .. code:: shell
 
     cd doc
-    make html
+    make clean; make html
 
 
 Hosting
