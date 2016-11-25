@@ -1,4 +1,4 @@
-Sphinx
+sphinx
 pep8
 pylint
 nose2

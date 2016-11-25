@@ -2,7 +2,7 @@ sudo: required
 language: python
 dist: trusty
 before_install:
-  - pip install $(cat requirements.txt | grep -v Sphinx)
+  - pip install $(cat requirements.txt | grep -v sphinx)
 python:
   - "3.3"
   - "3.4"
