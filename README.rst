@@ -69,7 +69,13 @@ Use case no 1:
 
 .. code:: shell
 
-    program-cli mandatory-arg -o optional-arg
+    program-cli "mandatory argument"
+
+Use case no 2:
+
+.. code:: shell
+
+    program-cli "mandatory argument" -o "optional argument"
 
 
 Contributing to the project

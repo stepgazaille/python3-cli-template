@@ -84,7 +84,7 @@ USAGE
         sys.stderr.write(indent + "  for help use --help")
         return 2
 
-    print("This is th mandatory argument:", mandatory)
+    print("This is the mandatory argument:", mandatory)
 
     if optional:
         print("This is the optional argmuent:", optional)
