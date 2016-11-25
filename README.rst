@@ -1,15 +1,17 @@
 Python3 project
 ***************
+Project tagline goes here.
 
 .. image:: https://travis-ci.org/stepgazaille/python3-template.svg?branch=master
     :target: https://travis-ci.org/stepgazaille/python3-template
 
-
-My Python3 project template.
-
-
 .. contents:: **Contents of this document**
    :depth: 2
+
+
+Description
+===========
+Project description goes here.
 
 
 Installation
@@ -22,6 +24,11 @@ Use the following commands to install the program:
     git clone https://github.com/stepgazaille/python3-template.git
     cd python3-template
     sudo pip3 install .
+
+
+Documentation
+=============
+The project's `latest release <https://github.com/stepgazaille/python3-template/releases>`_ API documentation is available `here <https://stepgazaille.github.io/python3-template/>`_.
 
 
 Usage

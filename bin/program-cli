@@ -1,7 +1,7 @@
 """
 program -- program description
 
-@author:     Stephane Gazaille
+@author:     John Doe
 @copyright:  2016 - All rights reserved.
 @license:    Apache License 2.0
 @contact:    author@domain.com
@@ -13,7 +13,6 @@ import os
 
 from argparse import ArgumentParser
 from argparse import RawDescriptionHelpFormatter
-from os.path import expanduser
 from program import program
 
 __all__ = []
