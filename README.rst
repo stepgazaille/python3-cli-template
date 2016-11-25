@@ -30,7 +30,7 @@ Documentation
 =============
 API documentation
 -----------------
-The project `API documentation <https://stepgazaille.github.io/python3-template//>`_ is hosted on `GitHub Pages <https://pages.github.com/>`_
+The `API documentation <https://stepgazaille.github.io/python3-template//>`_ is hosted on `GitHub Pages <https://pages.github.com/>`_
 
 
 Usage
