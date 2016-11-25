@@ -28,7 +28,7 @@ Use the following commands to install the program:
 
 Documentation
 =============
-The project's `latest release <https://github.com/stepgazaille/python3-template/releases>`_ API documentation is available `here <https://stepgazaille.github.io/python3-template/>`_.
+The project `online documentation <https://stepgazaille.github.io/python3-template//>`_ is hosted on `GitHub Pages <https://pages.github.com/>`_
 
 
 Usage
@@ -72,7 +72,6 @@ Use case no 1:
 
 Contributing to the project
 ===========================
-
 Installation
 ------------
 
@@ -94,7 +93,6 @@ Use the following commands to install the program in editable mode:
 
 Testing
 -------
-
 Style checker
 ~~~~~~~~~~~~~
 
@@ -125,12 +123,17 @@ We are using `nose2 <https://github.com/nose-devs/nose2>`_ for unit testing. Use
     nose2
 
 
-Documentation
--------------
+End-to-end testing
+~~~~~~~~~~~~~~~~~~
+Use the following command to run end-to-end tests:
 
-Generating the project's documentation
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. code:: shell
 
+    python3 ./tests/end_to_end_test.py
+
+
+Generating documentation
+------------------------
 We are using `Sphinx <http://www.sphinx-doc.org>`_ to generate our API documentation. Use the following commands to generate a local version of the project's API documentation:
 
 .. code:: shell
@@ -140,17 +143,18 @@ We are using `Sphinx <http://www.sphinx-doc.org>`_ to generate our API documenta
 
 The generated API documentation will appear in docs/_build/html/ directory.
 
-Hosting
-~~~~~~~
-The project `online documentation <https://stepgazaille.github.io/python3-template//>`_ is hosted on `GitHub Pages <https://pages.github.com/>`_
-
 
 Versioning
 ==========
 We are using  `SemVer <http://semver.org>`_ for versioning. For the versions available, see the `tags on this repository <https://github.com/stepgazaille/python3-template/tags>`_
+
 
 Author
 ======
 
 - **John Doe** - *Initial work*
 
+
+License
+=======
+This project is licensed under the Apache License Version 2.0. See `LICENSE <https://github.com/stepgazaille/python3-template/blob/master/LICENSE>`_ for details
