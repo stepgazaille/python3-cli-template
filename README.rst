@@ -28,11 +28,13 @@ Use the following commands to install the program:
 
 Documentation
 =============
-The project `online documentation <https://stepgazaille.github.io/python3-template//>`_ is hosted on `GitHub Pages <https://pages.github.com/>`_
+API documentation
+-----------------
+The project `API documentation <https://stepgazaille.github.io/python3-template//>`_ is hosted on `GitHub Pages <https://pages.github.com/>`_
 
 
 Usage
-=====
+-----
 
 .. code:: shell
 
@@ -61,7 +63,7 @@ Usage
 
 
 Usage examples
---------------
+~~~~~~~~~~~~~~
 
 Use case no 1:
 
