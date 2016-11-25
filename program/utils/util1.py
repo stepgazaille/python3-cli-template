@@ -1,7 +1,6 @@
 """
-Created on Sep 6, 2026
-
-@author: Stephane Gazaille
+| Created: 2016-09-06
+| Updated: 2016-11-25
 """
 
 

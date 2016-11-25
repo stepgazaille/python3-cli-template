@@ -1,16 +1,13 @@
 """
-Created on Sep 6, 2016
-
-@author: author name
+| Created: 2016-09-06
+| Updated: 2016-11-25
 """
 from program.utils import util1
 from program.data_types import data_type1
 
 
 class Program(object):
-    """
-    Class description
-    """
+    """Class description."""
 
     def __init__(self, attribute1=None):
         """
