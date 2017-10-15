@@ -17,7 +17,7 @@ Project description goes here.
 Installation
 ============
 
-Use the following commands to install the program (assumes virtual env):
+Use the following commands to install the program (assumes Python3 virtual env):
 
 .. code:: shell
 
@@ -83,7 +83,7 @@ Contributing to the project
 Installation
 ------------
 
-Use the following command to install testing and documentation dependencies (assumes virtual env):
+Use the following command to install testing and documentation dependencies (assumes Python3 virtual env):
 
 .. code:: shell
 
@@ -133,11 +133,11 @@ We are using `nose2 <https://github.com/nose-devs/nose2>`_ for unit testing. Use
 
 End-to-end testing
 ~~~~~~~~~~~~~~~~~~
-Use the following command to run end-to-end tests:
+Use the following command to run end-to-end tests (assumes Python3 virtual env):
 
 .. code:: shell
 
-    python3 ./tests/end_to_end_test.py
+    python ./tests/end_to_end_test.py
 
 
 Generating documentation
