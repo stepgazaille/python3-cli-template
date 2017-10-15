@@ -17,13 +17,13 @@ Project description goes here.
 Installation
 ============
 
-Use the following commands to install the program:
+Use the following commands to install the program (assumes virtual env):
 
 .. code:: shell
 
     git clone https://github.com/stepgazaille/python3-cli-template.git
     cd python3-cli-template
-    sudo pip3 install .
+    pip install .
 
 
 Documentation
@@ -83,20 +83,20 @@ Contributing to the project
 Installation
 ------------
 
-Use the following command to install testing and documentation dependencies:
+Use the following command to install testing and documentation dependencies (assumes virtual env):
 
 .. code:: shell
 
-    sudo pip3 install -r requirements.txt
+    pip install -r requirements.txt
 
 
-Use the following commands to install the program in editable mode:
+Use the following commands to install the program in editable mode (assumes virtual env):
 
 .. code:: shell
 
     git clone https://github.com/stepgazaille/python3-cli-template.git
-    cd python3-template
-    sudo pip3 install -e .
+    cd python3-cli-template
+    pip install -e .
 
 
 Testing
