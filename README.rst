@@ -17,13 +17,14 @@ Project description goes here.
 Installation
 ============
 
-Use the following commands to install the program (assumes activated Python3 virtual env):
+Use the following commands to install the program:
 
 .. code:: shell
 
+    sudo apt-get install python3-pip
     git clone https://github.com/stepgazaille/python3-cli-template.git
     cd python3-cli-template
-    pip install .
+    sudo pip3 install .
 
 
 Documentation
@@ -83,20 +84,20 @@ Contributing to the project
 Installation
 ------------
 
-Use the following command to install testing and documentation dependencies (assumes activated Python3 virtual env):
+Use the following command to install testing and documentation dependencies:
 
 .. code:: shell
 
-    pip install -r requirements.txt
+    sudo pip3 install -r requirements.txt
 
 
-Use the following commands to install the program in editable mode (assumes activated Python3 virtual env):
+Use the following commands to install the program in editable mode:
 
 .. code:: shell
 
     git clone https://github.com/stepgazaille/python3-cli-template.git
     cd python3-cli-template
-    pip install -e .
+    sudo pip3 install -e .
 
 
 Testing
@@ -133,11 +134,11 @@ We are using `nose2 <https://github.com/nose-devs/nose2>`_ for unit testing. Use
 
 End-to-end testing
 ~~~~~~~~~~~~~~~~~~
-Use the following command to run end-to-end tests (assumes activated Python3 virtual env):
+Use the following command to run end-to-end tests:
 
 .. code:: shell
 
-    python ./tests/end_to_end_test.py
+    python3 ./tests/end_to_end_test.py
 
 
 Generating documentation
