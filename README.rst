@@ -28,6 +28,11 @@ Use the following commands to install the program:
 
 Documentation
 =============
+API documentation
+-----------------
+The `API documentation <https://stepgazaille.github.io/python3-cli-template/>`_ is hosted on `GitHub Pages <https://pages.github.com/>`_
+
+
 Usage
 -----
 
