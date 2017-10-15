@@ -160,7 +160,7 @@ We are using  `SemVer <http://semver.org>`_ for versioning. For the versions ava
 Author
 ======
 
-- **John Doe** - *Initial work*
+- **Stephane Gazaille** - *Initial work*
 
 
 License
