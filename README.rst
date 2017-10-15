@@ -1,5 +1,5 @@
-Python3 project
-***************
+Python3 CLI template
+********************
 Project tagline goes here.
 
 .. image:: https://travis-ci.org/stepgazaille/python3-cli-template.svg?branch=master
