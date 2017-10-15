@@ -22,7 +22,7 @@ Use the following commands to install the program:
 .. code:: shell
 
     git clone https://github.com/stepgazaille/python3-cli-template.git
-    cd python3-template
+    cd python3-cli-template
     sudo pip3 install .
 
 
